@@ -1,0 +1,40 @@
+[20-Jul-2019 19:11:45 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/bhx20857/7.andrewvysotskiy.ru/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'bhx20857_admin', 'adminxauto1', 'bhx20857_xauto', '3306')
+#1 /home/bhx20857/7.andrewvysotskiy.ru/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'bhx20857_admin', 'adminxauto1', 'bhx20857_xauto', '3306')
+#2 /home/bhx20857/7.andrewvysotskiy.ru/system/startup.php(104): require_once('/home/bhx20857/...')
+#3 /home/bhx20857/7.andrewvysotskiy.ru/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+[21-Jul-2019 07:34:48 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/bhx20857/7.andrewvysotskiy.ru/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'bhx20857_admin', 'adminxauto1', 'bhx20857_xauto', '3306')
+#1 /home/bhx20857/7.andrewvysotskiy.ru/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'bhx20857_admin', 'adminxauto1', 'bhx20857_xauto', '3306')
+#2 /home/bhx20857/7.andrewvysotskiy.ru/system/startup.php(104): require_once('/home/bhx20857/...')
+#3 /home/bhx20857/7.andrewvysotskiy.ru/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+[21-Jul-2019 07:34:52 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/bhx20857/7.andrewvysotskiy.ru/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'bhx20857_admin', 'adminxauto1', 'bhx20857_xauto', '3306')
+#1 /home/bhx20857/7.andrewvysotskiy.ru/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'bhx20857_admin', 'adminxauto1', 'bhx20857_xauto', '3306')
+#2 /home/bhx20857/7.andrewvysotskiy.ru/system/startup.php(104): require_once('/home/bhx20857/...')
+#3 /home/bhx20857/7.andrewvysotskiy.ru/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+[21-Jul-2019 07:36:49 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/bhx20857/7.andrewvysotskiy.ru/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'bhx20857_admin', 'adminxauto1', 'bhx20857_xauto', '3306')
+#1 /home/bhx20857/7.andrewvysotskiy.ru/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'bhx20857_admin', 'adminxauto1', 'bhx20857_xauto', '3306')
+#2 /home/bhx20857/7.andrewvysotskiy.ru/system/startup.php(104): require_once('/home/bhx20857/...')
+#3 /home/bhx20857/7.andrewvysotskiy.ru/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+[21-Jul-2019 07:36:50 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/bhx20857/7.andrewvysotskiy.ru/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'bhx20857_admin', 'adminxauto1', 'bhx20857_xauto', '3306')
+#1 /home/bhx20857/7.andrewvysotskiy.ru/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'bhx20857_admin', 'adminxauto1', 'bhx20857_xauto', '3306')
+#2 /home/bhx20857/7.andrewvysotskiy.ru/system/startup.php(104): require_once('/home/bhx20857/...')
+#3 /home/bhx20857/7.andrewvysotskiy.ru/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10

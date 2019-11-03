@@ -1,0 +1,45 @@
+2019-07-20 18:49:01 - PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'bhx20857_admin'@'localhost' to database 'bhx20857_xauto' in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 7
+2019-07-20 18:49:01 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 18:49:01 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 18:49:07 - PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'bhx20857_admin'@'localhost' to database 'bhx20857_xauto' in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 7
+2019-07-20 18:49:07 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 18:49:07 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 18:49:09 - PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'bhx20857_admin'@'localhost' to database 'bhx20857_xauto' in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 7
+2019-07-20 18:49:09 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 18:49:09 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 18:51:20 - PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'bhx20857_admin'@'localhost' to database 'bhx20857_xauto' in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 7
+2019-07-20 18:51:20 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 18:51:20 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 19:01:22 - PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'bhx20857_admin'@'localhost' to database 'bhx20857_xauto' in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 7
+2019-07-20 19:01:22 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 19:01:22 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 19:02:25 - PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'bhx20857_admin'@'localhost' to database 'bhx20857_xauto' in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 7
+2019-07-20 19:02:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 19:02:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 19:02:26 - PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'bhx20857_admin'@'localhost' to database 'bhx20857_xauto' in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 7
+2019-07-20 19:02:26 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 19:02:26 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 19:07:03 - PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'bhx20857_admin'@'localhost' to database 'bhx20857_xauto' in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 7
+2019-07-20 19:07:03 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 19:07:03 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 19:07:04 - PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'bhx20857_admin'@'localhost' to database 'bhx20857_xauto' in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 7
+2019-07-20 19:07:04 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 19:07:04 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 19:10:25 - PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'bhx20857_admin'@'localhost' to database 'bhx20857_xauto' in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 7
+2019-07-20 19:10:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 19:10:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 19:11:45 - PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'bhx20857_admin'@'localhost' to database 'bhx20857_xauto' in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 7
+2019-07-20 19:11:45 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-20 19:11:45 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-21 7:34:48 - PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'bhx20857_admin'@'localhost' (using password: YES) in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 7
+2019-07-21 7:34:48 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-21 7:34:48 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-21 7:34:52 - PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'bhx20857_admin'@'localhost' (using password: YES) in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 7
+2019-07-21 7:34:52 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-21 7:34:52 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-21 7:36:49 - PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'bhx20857_admin'@'localhost' to database 'bhx20857_xauto' in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 7
+2019-07-21 7:36:49 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-21 7:36:49 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-21 7:36:50 - PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'bhx20857_admin'@'localhost' to database 'bhx20857_xauto' in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 7
+2019-07-21 7:36:50 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
+2019-07-21 7:36:50 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/bhx20857/7.andrewvysotskiy.ru/system/library/db/mysqli.php on line 10
